@@ -1,0 +1,4 @@
+c:\users\aafes\documents\visual studio 2010\Projects\FileSystemTest\FileSystemTest\bin\Debug\FileSystemTest.exe
+c:\users\aafes\documents\visual studio 2010\Projects\FileSystemTest\FileSystemTest\bin\Debug\FileSystemTest.pdb
+c:\users\aafes\documents\visual studio 2010\Projects\FileSystemTest\FileSystemTest\obj\x86\Debug\FileSystemTest.exe
+c:\users\aafes\documents\visual studio 2010\Projects\FileSystemTest\FileSystemTest\obj\x86\Debug\FileSystemTest.pdb
